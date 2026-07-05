@@ -1,0 +1,6 @@
+name: FillWorld
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.fillWorld.FillWorld
+api-version: '1.21'
+commands:
+  fillWorld:

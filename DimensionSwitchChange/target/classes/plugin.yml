@@ -1,0 +1,6 @@
+name: DimensionSwitchChange
+version: '1.0-SNAPSHOT'
+main: fun.dimensionswitchchange.DimensionSwitchChange
+api-version: '1.20'
+commands:
+  dimensionswitch:

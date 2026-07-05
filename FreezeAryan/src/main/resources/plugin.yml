@@ -1,0 +1,6 @@
+name: FreezeAryan
+version: '${project.version}'
+main: fun.freezearyan.FreezeAryan
+api-version: 1.20
+commands:
+  freezearyan:
