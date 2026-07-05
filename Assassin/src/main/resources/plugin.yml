@@ -1,0 +1,6 @@
+name: Assassin
+version: '${project.version}'
+main: fun.assassin.Assassin
+api-version: '1.20'
+commands:
+  assassin:
