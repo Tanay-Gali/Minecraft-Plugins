@@ -1,0 +1,4 @@
+name: PingPongAnvil
+version: '${project.version}'
+main: r0bos.fun.pingponganvil.PingPongAnvil
+api-version: '1.20'

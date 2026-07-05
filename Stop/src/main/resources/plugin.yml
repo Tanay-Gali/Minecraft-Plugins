@@ -1,0 +1,4 @@
+name: Stop
+version: '${project.version}'
+main: fun.stop.Stop
+api-version: 1.19

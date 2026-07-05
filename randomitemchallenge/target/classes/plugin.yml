@@ -1,0 +1,10 @@
+name: randomitemchallenge
+version: '1.0-SNAPSHOT'
+main: fun.randomitemchallenge.Randomitemchallenge
+api-version: '1.20'
+commands:
+  randomitemchallenge:
+    permission: randomitemchallenge.admin
+
+
+

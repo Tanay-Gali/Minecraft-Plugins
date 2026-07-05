@@ -1,0 +1,7 @@
+name: ShareInventory
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.shareInventory.ShareInventory
+api-version: '1.21'
+commands:
+  shareinventory:
+

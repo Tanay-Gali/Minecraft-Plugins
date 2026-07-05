@@ -1,0 +1,7 @@
+name: ShareHealth
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.shareHealth.ShareHealth
+api-version: '1.21'
+commands:
+  sharedamage:
+

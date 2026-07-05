@@ -1,0 +1,6 @@
+name: PillarsOfFortune
+version: '${project.version}'
+main: r0bos.fun.pillarsoffortune.PillarsOfFortune
+api-version: '1.21'
+commands:
+  pillar:

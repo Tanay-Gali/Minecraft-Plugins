@@ -1,0 +1,4 @@
+name: Stop
+version: '1.0-SNAPSHOT'
+main: fun.stop.Stop
+api-version: 1.19

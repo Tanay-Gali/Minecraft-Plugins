@@ -1,0 +1,7 @@
+name: Manhunt
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.manhunt.Manhunt
+api-version: '1.20'
+commands:
+  runner:
+  hunter:
