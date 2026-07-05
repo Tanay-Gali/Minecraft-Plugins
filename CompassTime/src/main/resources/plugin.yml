@@ -1,0 +1,4 @@
+name: CompassTime
+version: '${project.version}'
+main: fun.compasstime.CompassTime
+api-version: 1.20

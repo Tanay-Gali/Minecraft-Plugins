@@ -1,0 +1,6 @@
+name: Test
+version: '${project.version}'
+main: fun.test.Test
+api-version: 1.20
+commands:
+  compass:

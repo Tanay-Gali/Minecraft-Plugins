@@ -1,0 +1,6 @@
+name: Test
+version: '1.0-SNAPSHOT'
+main: fun.test.Test
+api-version: 1.20
+commands:
+  compass:

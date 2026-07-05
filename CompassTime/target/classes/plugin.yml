@@ -1,0 +1,4 @@
+name: CompassTime
+version: '1.0-SNAPSHOT'
+main: fun.compasstime.CompassTime
+api-version: 1.20
