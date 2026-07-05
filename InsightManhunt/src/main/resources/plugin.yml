@@ -1,0 +1,7 @@
+name: InsightManhunt
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.insightManhunt.InsightManhunt
+api-version: '1.21'
+commands:
+  runner:
+  hunter:
