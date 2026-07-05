@@ -1,0 +1,4 @@
+name: BlackHole
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.blackHole.BlackHole
+api-version: '1.21'
