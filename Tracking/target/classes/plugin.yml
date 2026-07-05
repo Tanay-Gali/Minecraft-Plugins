@@ -1,0 +1,6 @@
+name: Tracking
+version: '1.0-SNAPSHOT'
+main: fun.tracking.Tracking
+api-version: 1.19
+commands:
+  compass:

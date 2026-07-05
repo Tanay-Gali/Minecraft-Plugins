@@ -1,0 +1,6 @@
+name: Tracking
+version: '${project.version}'
+main: fun.tracking.Tracking
+api-version: 1.19
+commands:
+  compass:

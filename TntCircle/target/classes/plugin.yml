@@ -1,0 +1,4 @@
+name: TntCircle
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.tntcircle.TntCircle
+api-version: '1.20'

@@ -1,0 +1,7 @@
+name: TntBow
+version: '${project.version}'
+main: fun.tntbow.TntBow
+api-version: '1.20'
+commands:
+  sbow:
+    permission: sbow.permission

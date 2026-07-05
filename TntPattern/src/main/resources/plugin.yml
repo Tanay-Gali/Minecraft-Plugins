@@ -1,0 +1,4 @@
+name: TntPattern
+version: '${project.version}'
+main: fun.tntpattern.TntPattern
+api-version: 1.20

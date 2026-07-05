@@ -1,0 +1,6 @@
+name: Voting
+version: '1.0-SNAPSHOT'
+main: r0bos.fun.voting.Voting
+api-version: '1.21'
+commands:
+  button:
